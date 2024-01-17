@@ -1,7 +1,7 @@
-#Introduction
+# Introduction
 The Fibonacci program is a Java application that generates the Fibonacci sequence based on user input. The program provides multiple input methods, allowing the user to choose how to specify the number of elements in the Fibonacci sequence. The supported input methods are:
 
-#Types of Input
+# Types of Input
 Buffer Input: Uses BufferedReader to read input from the console.
 Command Line Input: Takes the number of elements as a command-line argument.
 Console Input: Utilizes System.console().readLine() for input from the console.
